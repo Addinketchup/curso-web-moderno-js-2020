@@ -5,7 +5,7 @@ const template = `
     ${nome}!`
 console.log(concatenacao, template)
 
-//expressoes...
+// Expressoes...
 console.log(`1 + 1 = ${1 + 1}`)
 
 const up = texto => texto.toUpperCase()

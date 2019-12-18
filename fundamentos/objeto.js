@@ -1,8 +1,8 @@
 const prod1 = {}
-//atribuindo valores no objeto de forma dinamica 
+// Atribuindo valores no objeto de forma dinamica 
 prod1.nome = 'Celular Ultra Mega'
 prod1.preco = 4998.90
-prod1['Desconto Legal'] = 0.40 //evitar atributos com espaco
+prod1['Desconto Legal'] = 0.40 // Evitar atributos com espaco
 
 console.log(prod1)
 

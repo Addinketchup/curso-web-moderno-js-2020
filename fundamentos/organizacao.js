@@ -1,16 +1,16 @@
-//organizacao basica de um codigo em js
+// Organizacao basica de um codigo em js
 
-//sentenca
+// Sentenca
 console.log("Sentença de Código")
 
-// bloco de código, delimitado por {}
-// funcao: agrupar sentencas de codigo
+// Bloco de código, delimitado por {}
+// Funcao: agrupar sentencas de codigo
 
-//bloco 1
+// Bloco 1
 {
-    //bloco 2
+    // Bloco 2
     {
-        console.log("Ola!") //sentenca 1
-        console.log("Mundo!") //sentenca 2
+        console.log("Ola!") // Sentenca 1
+        console.log("Mundo!") // Sentenca 2
     }    
 }
