@@ -21,6 +21,6 @@ function imprimirNomeGritado(obj) {
     
 }
 
-//const obj = { name: 'Roberto' } //Parametro "name" correto, nao da erro
-const obj = { nome: 'Roberto' } //Parametro "nome" errado
+//const obj = { name: 'Roberto' } //Parametro "name" correto, nao da erro 
+const obj = { nome: 'Roberto' } //Parametro "nome" errado 
 imprimirNomeGritado(obj)
