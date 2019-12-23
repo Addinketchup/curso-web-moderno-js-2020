@@ -1,4 +1,5 @@
 // Novo recurso do ES2015
+//Utilizando destructuring em Objeto
 
 const pessoa = {
     nome: 'Ana',
