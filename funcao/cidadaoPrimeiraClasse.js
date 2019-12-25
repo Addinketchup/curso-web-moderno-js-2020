@@ -23,7 +23,7 @@ function run(fun) {
 
 run(function () { console.log('Executando...') })
 
-// Uma função pode retornar/conter uma outra função
+// Uma função pode retornar/conter uma outra função 
 function soma(a, b) {
     return function (c) {
         console.log(a + b + c)
