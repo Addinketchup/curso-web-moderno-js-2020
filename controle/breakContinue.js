@@ -14,7 +14,7 @@ for(let y in nums) {
     console.log(`${y} = ${nums[y]}`)
 }
 
-//Criando um rotulo par o laço, não usar, apenas exemplo
+//Criando um rotulo para o laço, não usar, apenas exemplo
 externo: for (let a in nums) {
     for (let b in nums) {
         if(a == 2 && b == 3) break externo
