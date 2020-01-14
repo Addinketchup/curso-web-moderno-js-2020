@@ -11,11 +11,11 @@ axios.get(url).then(response => {
     const funcionarios = response.data
     console.log(funcionarios)
 
-    // Desafio: Retornar mulher chinesa com menor salario
+    // Desafio: Retornar mulher chinesa com menor salario.
     const func = funcionarios
         .filter(chineses)
         .filter(mulheres)
         .reduce(menorSalario)
     
     console.log(func)
-})
+}) 
